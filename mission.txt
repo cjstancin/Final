@@ -1,4 +1,0 @@
-Chemistry Students
-Easy plug-in functions for formulas
-It will make it easier to plug in variables and get answers faster to make it 
-easier for the students
